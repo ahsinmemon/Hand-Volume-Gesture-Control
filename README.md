@@ -124,6 +124,15 @@ This project is inspired by the computer vision tutorials from:
 
 ---
 
+
+## Challenges Faced
+
+One of the main challenges during development was dealing with package and dependency version mismatches because the original tutorial was created using older library versions.
+
+Some functions and attributes had changed in newer releases of PyCaw and MediaPipe, which caused errors during implementation. These issues were resolved by debugging the code and adapting it to newer package versions.
+
+---
+
 ## Author
 
 ### Ahsin Memon
