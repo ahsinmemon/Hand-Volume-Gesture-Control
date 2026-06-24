@@ -1,4 +1,4 @@
-````md
+
 # Hand Volume Gesture Control
 
 Control your system volume using hand gestures using Python, OpenCV, and MediaPipe.
