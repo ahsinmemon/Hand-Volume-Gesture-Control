@@ -99,6 +99,9 @@ Hand-Volume-Gesture-Control/
 ├── README.md
 ```
 
+## Project Demo 
+md![Demo](volume.gif)
+
 ---
 
 ## Learning Reference
